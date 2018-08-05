@@ -1,0 +1,11 @@
+socket について
+  以下を参考にした.
+  https://qiita.com/msrks/items/0550603efc59f6e8ba09
+  
+contextlib.closing について
+  以下を参考にした.
+  https://docs.python.jp/3/library/contextlib.html
+
+server_core.is_running について
+    以下を参考にした.
+    https://stackoverflow.com/questions/7653178/wait-until-a-certain-process-knowing-the-pid-end
