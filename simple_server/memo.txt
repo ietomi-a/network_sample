@@ -1,0 +1,8 @@
+openssl による秘密鍵、証明書の作成は以下を参考にした.
+  https://qiita.com/hana_shin/items/6d9de0847a06d8ee95cc
+
+簡易な tls 対応サーバーの建て方は以下を参考にした.
+  https://qiita.com/masakielastic/items/05cd6a36bb6fb10fccf6
+
+openssl によるアクセス、参照する証明書の設定は以下を参考にした。
+  https://dev.classmethod.jp/server-side/python/how-to-manage-ca-root-certs-for-requets-library/
